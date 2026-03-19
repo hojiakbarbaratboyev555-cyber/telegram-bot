@@ -1,0 +1,6 @@
+aiogram>=3.4
+fastapi
+uvicorn
+aiohttp
+pymysql
+tgcrypto
